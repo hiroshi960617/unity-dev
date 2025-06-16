@@ -106,7 +106,7 @@ export function EnhancedHero() {
             animate={{ opacity: 1 }}
             transition={{ duration: 0.6, delay: 0.3 }}
           >
-            Over the last 6 years, I've been developing projects in Unity as a game designer and programmer.
+            Over the last 7 years, I've been developing projects in Unity as a game designer and programmer.
           </motion.p>
           <motion.div
             className="flex flex-col sm:flex-row gap-4 justify-center"
