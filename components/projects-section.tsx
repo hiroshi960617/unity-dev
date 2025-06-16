@@ -29,7 +29,7 @@ export function ProjectsSection() {
       description:
         "A fast-paced 3D shooting game developed in Unity, focusing on responsive controls, satisfying weapon mechanics, and immersive level design. The game features real-time combat, enemy AI, and a progression system with multiple weapons and upgrades.",
       image: "/images/shooting-game.png",
-      tags: ["shooting", "nft", "ipfs"],
+      tags: ["shooting"],
       demoUrl: "https://shooting-demo.vercel.app",
       githubUrl: "https://github.com/shooting-marketplace",
     },
@@ -49,7 +49,7 @@ export function ProjectsSection() {
       description:
         "A peaceful garden hides a chilling past. As night falls, you explore the quiet halls of an old Japanese house, but you’re not alone. Lights flicker, doors creak, and something moves in the shadows near the old tree. Uncover the story, survive the night, and escape before the spirits find you.",
       image: "/images/Garden.png",
-      tags: ["horror", "social", "frontend"],
+      tags: ["horror"],
       demoUrl: "https://Whispers-Game-demo",
       githubUrl: "https://github.com/Whispers-platform",
     },
@@ -69,7 +69,7 @@ export function ProjectsSection() {
       description:
         "The game likely involves reclaiming or restoring control over a powerful sci-fi system after a collapse or attack. Expect intense action, advanced tech, and a high-stakes mission to bring the 'Starcore' back online before it's too late.",
       image: "/images/audit-tool.png",
-      tags: ["shooting", "security", "tool"],
+      tags: ["shooting"],
       demoUrl: "https://Starcore-Reboot-demo.vercel.app",
       githubUrl: "https://github.com/Starcore-Reboot-platform",
     },
